@@ -1,0 +1,78 @@
+
+Jasper Logo
+{
+	"text": "We Are All Human Microphones http:\/\/t.co\/Ge2JYANI #OWS",
+	"created_at": "Wed Oct 19 00:42:11 +0000 2011",
+	"retweeted": false,
+	"in_reply_to_status_id_str": null,
+	"entities": {
+		"hashtags": [{
+				"text": "OWS",
+				"indices": [50, 54]
+			}
+		],
+		"user_mentions": [],
+		"urls": [{
+				"indices": [29, 49],
+				"url": "http:\/\/t.co\/Ge2JYANI",
+				"expanded_url": "http:\/\/n.pr\/nMb97t",
+				"display_url": "n.pr\/nMb97t"
+			}
+		]
+	},
+	"geo": null,
+	"place": null,
+	"possibly_sensitive": false,
+	"in_reply_to_user_id_str": null,
+	"id_str": "126458082875281409",
+	"source": "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+	"contributors": null,
+	"coordinates": null,
+	"in_reply_to_status_id": null,
+	"retweet_count": 0,
+	"in_reply_to_user_id": null,
+	"favorited": false,
+	"truncated": false,
+	"user": {
+		"default_profile": false,
+		"created_at": "Sun Nov 28 04:30:39 +0000 2010",
+		"geo_enabled": true,
+		"profile_use_background_image": true,
+		"follow_request_sent": null,
+		"lang": "en",
+		"profile_background_image_url_https": "https:\/\/si0.twimg.com\/profile_background_images\/341549012\/twilk_background_4e8c772cce037.jpg",
+		"profile_text_color": "666666",
+		"followers_count": 498,
+		"profile_background_image_url": "http:\/\/a1.twimg.com\/profile_background_images\/341549012\/twilk_background_4e8c772cce037.jpg",
+		"url": "http:\/\/www.scribd.com\/dan_schell",
+		"description": "Poetry\/Fiction Writer in a Brave New World. Namaste!\r\n(Warning: I tweet\/retweet a lot).",
+		"screen_name": "WordEngineer",
+		"id_str": "220563286",
+		"profile_link_color": "2FC2EF",
+		"is_translator": false,
+		"following": null,
+		"favourites_count": 1,
+		"listed_count": 11,
+		"friends_count": 1028,
+		"profile_background_color": "1A1B1F",
+		"location": "Saginaw, Michigan",
+		"notifications": null,
+		"profile_background_tile": true,
+		"protected": false,
+		"profile_image_url_https": "https:\/\/si0.twimg.com\/profile_images\/1387603076\/227792_671181140970_51903108_35123681_4713128_n_normal.jpg",
+		"show_all_inline_media": false,
+		"contributors_enabled": false,
+		"statuses_count": 6089,
+		"verified": false,
+		"profile_sidebar_fill_color": "252429",
+		"name": "Dan Schell",
+		"profile_image_url": "http:\/\/a0.twimg.com\/profile_images\/1387603076\/227792_671181140970_51903108_35123681_4713128_n_normal.jpg",
+		"id": 220563286,
+		"default_profile_image": false,
+		"time_zone": "Eastern Time (US & Canada)",
+		"utc_offset": -18000,
+		"profile_sidebar_border_color": "181A1E"
+	},
+	"id": 126458082875281409,
+	"in_reply_to_screen_name": null
+}
